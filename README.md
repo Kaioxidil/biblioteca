@@ -1,7 +1,7 @@
 # Biblioteca
  ---------------------------------------------------------------------------------
 
-Link do site: [Seja Feliz](https://bibliotecasejafeliz.netlify.app)
+Link do site: [Seja Feliz](https://sejafelizbiblioteca.netlify.app)
  
 ---------------------------------------------------------------------------------------
 
